@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mesh-gradient.svg" width="100%" />
+  <img src="./blob-scene-haikei.svg" width="100%" />
 </p>
 
 <p align="center">
