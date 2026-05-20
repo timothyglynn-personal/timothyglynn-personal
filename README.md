@@ -1,5 +1,14 @@
 <p align="center">
   <img src="./blob-scene-haikei.svg" width="100%" />
+
+  ```bash
+> booting cognition layer...
+> initializing agent runtime...
+> loading developer systems...
+
+status: online
+```
+
 </p>
 
 <p align="center">
