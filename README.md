@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./mesh-gradient.svg" width="100%" />
+</p>
+
+<p align="center">
 
 <!-- Purple Header -->
 <img src="[YOUR_CAPSULE_RENDER_LIN](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:120018,100:6a00ff&text=Timothy%20Glynn&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)K"/>
